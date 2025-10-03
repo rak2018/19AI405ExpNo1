@@ -78,4 +78,8 @@ for room in ROOMS:
 print("\nSimulation Complete!")
 print(f"Final Performance Score: {performance_score}")
 print("Environment State:", environment)
+OUTPUT:
+
 <img width="1060" height="511" alt="493341242-421c4595-9890-403d-92f3-185ff8b4805e" src="https://github.com/user-attachments/assets/16c7f071-a0b4-4313-afee-bad7fda15884" />
+RESULT:
+Thus the AI agent is developed successfully
